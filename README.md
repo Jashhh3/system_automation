@@ -38,3 +38,4 @@ chmod +x system_health.sh
 [ALERT] Memory usage critical: 91%
 [INFO] Disk space: 60% used
 [INFO] Running processes: 127
+
